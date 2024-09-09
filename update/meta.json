@@ -1,7 +1,15 @@
 {
     "schemaVerison": 1,
-    "hotfixesFormet": null,
+    "hotfixesFormat": null,
     "verisons": [
 
+        {
+            "id": "0.9.1",
+            "releasedAt": 209384093820,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://drive.google.com/file/d/1mrScjWhpKJJdQ82jsYSifPHsv4LZl2av/view?usp=sharing"
+            }
+        }
     ]
 }
