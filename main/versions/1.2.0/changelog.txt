@@ -1,0 +1,7 @@
+Redid a lot of the UI to make it not overlap
+
+Disabled Fire and Ice Custom Main Menu Disabled Ice and Fire Siren Shaders
+
+Added Spyglass Astronomy and removed Spyglass Improvements
+
+Added Epic Dungeons, Dungeons Arise, and Dungeons Arise Seven Seas
