@@ -1,0 +1,16 @@
+Removed List:
+
+Aleki Ships - Everybody uses Small Ships
+Tactical Aid - Nobody uses
+Wildfires Female Gender - MCA has that covered
+YDM Weapon Master - Nobody uses it
+Truly Custom Horse Tack - SWEM has tacks
+Siple Walk - Nobody Uses
+Fusion - Not used
+Healing Campfire - Doesnt work as intended
+Lit it up - Removed due to compliants :L
+Nifty Ships Biomes o plently Compat - Removed Nifty Ships
+Refined Storage - Most prefer the other storage
+Added Memory leak fix
+
+Configs: Removed Seagulls stealing food Disabled Fish Oil Meme Disabled Skreechers Summon Wardens Enabled Bee Hibernation
